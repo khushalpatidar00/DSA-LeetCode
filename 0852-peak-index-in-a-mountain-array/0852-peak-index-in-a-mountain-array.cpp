@@ -6,7 +6,7 @@ public:
        while(i<=j){
         int mid=(i+j)/2;
         if(i==j)  return i;
-       if (nums[mid] < nums[mid + 1]) {
+       else if(nums[mid] < nums[mid + 1]) {
     // Increasing slope
         i = mid + 1;
     } else {
