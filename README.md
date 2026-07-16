@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
 | ------- |
@@ -115,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
