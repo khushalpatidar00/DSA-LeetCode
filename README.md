@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2000-reverse-prefix-of-word) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
