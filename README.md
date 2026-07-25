@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [3285-find-indices-of-stable-mountains](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Dynamic Programming
 |  |
 | ------- |
