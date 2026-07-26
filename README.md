@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3285-find-indices-of-stable-mountains](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
