@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
 | ------- |
