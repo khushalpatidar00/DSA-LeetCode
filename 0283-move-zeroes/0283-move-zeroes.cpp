@@ -7,9 +7,9 @@ public:
                 swap(nums[i],nums[j++]);
             }
         } 
-        while(j<nums.size()){
-            nums[j]=0;
-            j++;
-        }
+        // while(j<nums.size()){
+        //     nums[j]=0;
+        //     j++;
+        // }
     }
 };
