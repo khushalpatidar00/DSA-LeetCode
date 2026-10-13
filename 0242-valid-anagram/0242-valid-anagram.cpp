@@ -57,14 +57,13 @@
     bool isAnagram(string s, string t) {
          if(s.length()!= t.length())  return false;
         int freq[256]={0};
-        for(int i=0; i<s.size(); i++){
-            freq[s[i]-'a']++;
-
+        for(char c:s){
+            freq[c-'a']++;
         }
-        for(int i=0; i<t.size(); i++){
-            freq[t[i]-'a']--;
-            if(freq[t[i]-'a']<0) return false;
-            
+         for(char c:t){
+            freq[c-'a']--;
+        if(freq[c-'a']<0)   return false;
+
         }
         return true;
     }
