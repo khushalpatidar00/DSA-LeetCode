@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2000-reverse-prefix-of-word](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/khushalpatidar00/DSA-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
